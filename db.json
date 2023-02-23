@@ -57394,21 +57394,21 @@
   "recipeCategories": [
     {
       "id": "3",
-      "name": "Dessert",
+      "title": "Dessert",
       "image": "/images/recipe-category/dessert.png",
       "description": "Dessert is a course that concludes a meal. The course usually consists of sweet foods, such as confections dishes or fruit, and possibly a beverage such as dessert wine or liqueur, however in the United States it may include coffee, cheeses, nuts, or other savory items regarded as a separate course elsewhere. In some parts of the world, such as much of central and western Africa, and most parts of China, there is no tradition of a dessert course to conclude a meal.\r\n\r\nThe term dessert can apply to many confections, such as biscuits, cakes, cookies, custards, gelatins, ice creams, pastries, pies, puddings, and sweet soups, and tarts. Fruit is also commonly found in dessert courses because of its naturally occurring sweetness. Some cultures sweeten foods that are more commonly savory to create desserts.",
       "createdAt": 1670165983413
     },
     {
       "id": "11",
-      "name": "Vegan",
+      "title": "Vegan",
       "image": "/images/recipe-category/vegan.png",
       "description": "Veganism is both the practice of abstaining from the use of animal products, particularly in diet, and an associated philosophy that rejects the commodity status of animals.[b] A follower of either the diet or the philosophy is known as a vegan (pronounced /ˈviːɡən/ VEE-gən). Distinctions are sometimes made between several categories of veganism. Dietary vegans (or strict vegetarians) refrain from consuming animal products, not only meat but also eggs, dairy products and other animal-derived substances.[c] The term ethical vegan is often applied to those who not only follow a vegan diet but extend the philosophy into other areas of their lives, and oppose the use of animals for any purpose.[d] Another term is environmental veganism, which refers to the avoidance of animal products on the premise that the harvesting or industrial farming of animals is environmentally damaging and unsustainable.",
       "createdAt": 1670165983413
     },
     {
       "id": "12",
-      "name": "Vegetarian",
+      "title": "Vegetarian",
       "image": "/images/recipe-category/vegetarian.png",
       "description": "Vegetarianism is the practice of abstaining from the consumption of meat (red meat, poultry, seafood, and the flesh of any other animal), and may also include abstention from by-products of animal slaughter.\r\n\r\nVegetarianism may be adopted for various reasons. Many people object to eating meat out of respect for sentient life. Such ethical motivations have been codified under various religious beliefs, as well as animal rights advocacy. Other motivations for vegetarianism are health-related, political, environmental, cultural, aesthetic, economic, or personal preference. There are variations of the diet as well: an ovo-lacto vegetarian diet includes both eggs and dairy products, an ovo-vegetarian diet includes eggs but not dairy products, and a lacto-vegetarian diet includes dairy products but not eggs. A vegan diet excludes all animal products, including eggs and dairy. Some vegans also avoid other animal products such as beeswax, leather or silk clothing, and goose-fat shoe polish.",
       "createdAt": 1670165983413
@@ -57417,63 +57417,63 @@
   "recipeIngredients": [
     {
       "id": "5",
-      "name": "Avocado",
+      "title": "Avocado",
       "image": "/images/recipe-ingredient/Avocado.png",
       "description": "The avocado, a tree with probable origin in South Central Mexico, is classified as a member of the flowering plant family Lauraceae. The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.\r\n\r\nAvocados are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world. They have a green-skinned, fleshy body that may be pear-shaped, egg-shaped, or spherical. Commercially, they ripen after harvesting. Avocado trees are partially self-pollinating, and are often propagated through grafting to maintain predictable fruit quality and quantity. In 2017, Mexico produced 34% of the world supply of avocados.",
       "createdAt": 1667963546804
     },
     {
       "id": "9",
-      "name": "Apple Cider Vinegar",
+      "title": "Apple Cider Vinegar",
       "image": "/images/recipe-ingredient/Apple%20Cider%20Vinegar.png",
       "description": "Apple cider vinegar, or cider vinegar, is a vinegar made from fermented apple juice, and used in salad dressings, marinades, vinaigrettes, food preservatives, and chutneys. It is made by crushing apples, then squeezing out the juice. Bacteria and yeast are added to the liquid to start the alcoholic fermentation process, which converts the sugars to alcohol. In a second fermentation step, the alcohol is converted into vinegar by acetic acid-forming bacteria (Acetobacter species). Acetic acid and malic acid combine to give vinegar its sour taste. Apple cider vinegar has no medicinal or nutritional value. There is no high-quality clinical evidence that regular consumption of apple cider vinegar helps to maintain or lose body weight, or is effective to manage blood glucose and lipid levels.",
       "createdAt": 1667963546804
     },
     {
       "id": "11",
-      "name": "Aubergine",
+      "title": "Aubergine",
       "image": "/images/recipe-ingredient/Aubergine.png",
       "description": "Eggplant (US, Australia), aubergine (UK), or brinjal (South Asia and South Africa) is a plant species in the nightshade family Solanaceae. Solanum melongena is grown worldwide for its edible fruit.\r\n\r\nMost commonly purple, the spongy, absorbent fruit is used in various cuisines. Although often considered a vegetable, it is a berry by botanical definition. As a member of the genus Solanum, it is related to tomato and potato. Like the tomato, its skin and seeds can be eaten, but, like the potato, it is usually eaten cooked. Eggplant is nutritionally low in macronutrient and micronutrient content, but the capability of the fruit to absorb oils and flavors into its flesh through cooking expands its use in the culinary arts.\r\n\r\nIt was originally domesticated from the wild nightshade species thorn or bitter apple, S. incanum, probably with two independent domestications: one in South Asia, and one in East Asia.",
       "createdAt": 1667963546804
     },
     {
       "id": "15",
-      "name": "Baking Powder",
+      "title": "Baking Powder",
       "image": "/images/recipe-ingredient/Baking%20Powder.png",
       "description": "Baking powder is a dry chemical leavening agent, a mixture of a carbonate or bicarbonate and a weak acid. The base and acid are prevented from reacting prematurely by the inclusion of a buffer such as cornstarch. Baking powder is used to increase the volume and lighten the texture of baked goods. It works by releasing carbon dioxide gas into a batter or dough through an acid-base reaction, causing bubbles in the wet mixture to expand and thus leavening the mixture. The first single-acting baking powder was developed by Birmingham based food manufacturer Alfred Bird in England in 1843. The first double-acting baking powder was developed by Eben Norton Horsford in America in the 1860s.",
       "createdAt": 1667963546804
     },
     {
       "id": "17",
-      "name": "Basil",
+      "title": "Basil",
       "image": "/images/recipe-ingredient/Basil.png",
       "description": "Basil, also called great basil, is a culinary herb of the family Lamiaceae (mints).\r\n\r\nBasil is native to tropical regions from central Africa to Southeast Asia. It is a tender plant, and is used in cuisines worldwide. Depending on the species and cultivar, the leaves may taste somewhat like anise, with a strong, pungent, often sweet smell.",
       "createdAt": 1667963546804
     },
     {
       "id": "18",
-      "name": "Basil Leaves",
+      "title": "Basil Leaves",
       "image": "/images/recipe-ingredient/Basil%20Leaves.png",
       "description": "Basil, also called great basil, is a culinary herb of the family Lamiaceae (mints).\r\n",
       "createdAt": 1667963546804
     },
     {
       "id": "19",
-      "name": "Basmati Rice",
+      "title": "Basmati Rice",
       "image": "/images/recipe-ingredient/Basmati%20Rice.png",
       "description": "Basmati is a variety of long, slender-grained aromatic rice which is traditionally from the Indian subcontinent. As of 2018-19, India exported to over 90% of the overseas basmati rice market, while Pakistan accounted for the remainder, according to the Indian state-run Agricultural and Processed Food Products Export Development Authority  and the Pakistan government-run Economic Survey of Pakistan. Many countries use domestically grown basmati rice crops; however, basmati is geographically exclusive to select districts of India, Pakistan, Nepal and Bangladesh.",
       "createdAt": 1667963546804
     },
     {
       "id": "20",
-      "name": "Bay Leaf",
+      "title": "Bay Leaf",
       "image": "/images/recipe-ingredient/Bay%20Leaf.png",
       "description": "The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, or as dried and ground.",
       "createdAt": 1667963546804
     },
     {
       "id": "21",
-      "name": "Bay Leaves",
+      "title": "Bay Leaves",
       "image": "/images/recipe-ingredient/Bay%20Leaves.png",
       "description": "The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, or as dried and ground.",
       "createdAt": 1667963546804
@@ -66706,7 +66706,7 @@
             "cate": "beveragesAndDesserts"
           }
     ],
-    "special offers":[
+    "specialoffers":[
         {
             "id": 9,
             "quantity": 1,
@@ -67096,6 +67096,51 @@
             "description": "Our signature Krusher",
             "cate": "beveragesAndDesserts"
           }
+    ],
+    "tender":[
+      {
+        "images": "https://digitaleat.kfc.com/menus/image/bare/kfc-12pcTenders?q=75",
+        "title": "12 pc. Tenders Bucket",
+        "price": "43.59",
+        "id": "buc10"  ,
+        "cate":"buckets"
+       }, {
+        "images": "https://digitaleat.kfc.com/menus/image/bare/kfc-8pcTenders?q=75",
+        "title": "8 pc. Tenders Bucket",
+        "price": "19.99",
+        "id": "tend8" ,
+        "cate":"buckets"
+       }, {
+        "images": "https://digitaleat.kfc.com/menus/image/bare/kfc-12pcTenders?q=75",
+        "title": "12 pc. Tenders Bucket",
+        "price": "27.59",
+        "id": "tend10",
+        "cate":"buckets"
+      }, {
+        "images": "https://digitaleat.kfc.com/menus/image/bare/kfc-16pcTenders?q=75",
+        "title": "16 pc. Tenders Bucket",
+        "price": "39.59",
+        "id": "tend12"
+      },
+      {
+        "id":72 ,
+        "quantity":1,
+        "images": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120004.jpg?ver=22.01",
+        "name": "Boneless Chicken strips -3pc",
+        "type": "Non veg",
+        "price":155.24,
+        "description":"Tender, juicy, signature boneless chicken strips",
+        "cate":"snack"
+      },{
+        "id":76 ,
+        "quantity":1,
+        "images": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120006.jpg?ver=22.01",
+        "title": "Boneless Chicken strips -6pc",
+        "type": "Non veg",
+        "price":228.57,
+        "description":"Tender, juicy, signature boneless chicken strips",
+        "cate":"snack"
+      }
     ]
 },
 "userDetails":[]
